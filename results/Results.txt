@@ -1,0 +1,45 @@
+GameP01.txt : 6 cases de côté, 16 cases libres, 8 voitures, 8 mouvements, 1059 étapes
+GameP02.txt : 6 cases de côté, 11 cases libres, 11 voitures, 8 mouvements, 2268 étapes
+GameP03.txt : 6 cases de côté, 22 cases libres, 6 voitures, 14 mouvements, 776 étapes
+GameP04.txt : 6 cases de côté, 18 cases libres, 7 voitures, 9 mouvements, 368 étapes
+GameP05.txt : 6 cases de côté, 10 cases libres, 11 voitures, 9 mouvements, 2184 étapes
+GameP06.txt : 6 cases de côté, 10 cases libres, 11 voitures, 9 mouvements, 1558 étapes
+GameP07.txt : 6 cases de côté, 18 cases libres, 9 voitures, 13 mouvements, 4574 étapes
+GameP08.txt : 6 cases de côté, 5 cases libres, 14 voitures, 12 mouvements, 952 étapes
+GameP09.txt : 6 cases de côté, 9 cases libres, 12 voitures, 12 mouvements, 682 étapes
+GameP10.txt : 6 cases de côté, 9 cases libres, 12 voitures, 17 mouvements, 1901 étapes
+GameP11.txt : 6 cases de côté, 16 cases libres, 8 voitures, 25 mouvements, 825 étapes
+GameP12.txt : 6 cases de côté, 16 cases libres, 8 voitures, 17 mouvements, 1269 étapes
+GameP13.txt : 6 cases de côté, 8 cases libres, 13 voitures, 16 mouvements, 7996 étapes
+GameP14.txt : 6 cases de côté, 12 cases libres, 12 voitures, 17 mouvements, 10104 étapes
+GameP15.txt : 6 cases de côté, 4 cases libres, 14 voitures, 23 mouvements, 526 étapes
+GameP16.txt : 6 cases de côté, 11 cases libres, 11 voitures, 21 mouvements, 2497 étapes
+GameP17.txt : 6 cases de côté, 8 cases libres, 12 voitures, 24 mouvements, 2096 étapes
+GameP18.txt : 6 cases de côté, 14 cases libres, 9 voitures, 25 mouvements, 1582 étapes
+GameP19.txt : 6 cases de côté, 19 cases libres, 8 voitures, 22 mouvements, 485 étapes
+GameP20.txt : 6 cases de côté, 13 cases libres, 10 voitures, 10 mouvements, 1548 étapes
+GameP21.txt : 6 cases de côté, 18 cases libres, 7 voitures, 21 mouvements, 259 étapes
+GameP22.txt : 6 cases de côté, 9 cases libres, 12 voitures, 26 mouvements, 3572 étapes
+GameP23.txt : 6 cases de côté, 13 cases libres, 10 voitures, 29 mouvements, 2356 étapes
+GameP24.txt : 6 cases de côté, 15 cases libres, 10 voitures, 25 mouvements, 4339 étapes
+GameP25.txt : 6 cases de côté, 7 cases libres, 13 voitures, 27 mouvements, 8623 étapes
+GameP26.txt : 6 cases de côté, 9 cases libres, 12 voitures, 28 mouvements, 4809 étapes
+GameP27.txt : 6 cases de côté, 13 cases libres, 10 voitures, 28 mouvements, 2742 étapes
+GameP28.txt : 6 cases de côté, 8 cases libres, 12 voitures, 30 mouvements, 1926 étapes
+GameP29.txt : 6 cases de côté, 9 cases libres, 12 voitures, 31 mouvements, 4320 étapes
+GameP30.txt : 6 cases de côté, 13 cases libres, 10 voitures, 32 mouvements, 1162 étapes
+GameP31.txt : 6 cases de côté, 10 cases libres, 11 voitures, 37 mouvements, 3936 étapes
+GameP32.txt : 6 cases de côté, 12 cases libres, 11 voitures, 37 mouvements, 578 étapes
+GameP33.txt : 6 cases de côté, 9 cases libres, 12 voitures, 40 mouvements, 4065 étapes
+GameP34.txt : 6 cases de côté, 9 cases libres, 12 voitures, 43 mouvements, 4391 étapes
+GameP35.txt : 6 cases de côté, 11 cases libres, 11 voitures, 43 mouvements, 3942 étapes
+GameP36.txt : 6 cases de côté, 8 cases libres, 12 voitures, 44 mouvements, 2614 étapes
+GameP37.txt : 6 cases de côté, 6 cases libres, 13 voitures, 47 mouvements, 1944 étapes
+GameP38.txt : 6 cases de côté, 11 cases libres, 11 voitures, 48 mouvements, 3664 étapes
+GameP39.txt : 6 cases de côté, 10 cases libres, 12 voitures, 50 mouvements, 3602 étapes
+GameP40.txt : 6 cases de côté, 7 cases libres, 13 voitures, 51 mouvements, 3026 étapes
+
+Avec l'heuristique comptant le nombre de voitures entre la rouge et la sortie, 
+la diminution du nombre d'étapes est de 13.243%
+Avec l'heuristique comptant le nombre de voitures entre la rouge et la sortie en ajoutant une pénalité selon la situation,
+la diminution du nombre d'étapes est de 5.172%
