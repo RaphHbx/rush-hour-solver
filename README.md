@@ -53,4 +53,4 @@ Le dossier `results/` contient les scripts d'analyse et les données brutes comp
 *   **Métrique clé** : Réduction de l'espace de recherche (nœuds visités) grâce aux heuristiques par rapport au BFS standard.
 
 ---
-*Projet réalisé par [Ton Nom] - École Polytechnique - Parcours Mathématiques Appliquées*
+*Projet réalisé par Keyvan Attarian et Raphaël Herbeaux - École Polytechnique - Parcours Mathématiques Appliquées*
